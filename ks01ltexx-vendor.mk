@@ -127,7 +127,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/ks01ltexx/proprietary/vendor/lib/D13QS_libchromatix_imx135_uhd_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/D13QS_libchromatix_imx135_uhd_video.so \
     vendor/samsung/ks01ltexx/proprietary/vendor/lib/D13QS_libchromatix_imx135_zslshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/D13QS_libchromatix_imx135_zslshot.so \
     vendor/samsung/ks01ltexx/proprietary/vendor/lib/hw/camera.vendor.msm8974.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.vendor.msm8974.so \
-    vendor/samsung/ks01ltexx/proprietary/vendor/lib/hw/consumerir.msm8974.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/consumerir.msm8974.so \
     vendor/samsung/ks01ltexx/proprietary/vendor/lib/hw/sensorhubs.msm8974.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensorhubs.msm8974.so \
     vendor/samsung/ks01ltexx/proprietary/vendor/lib/hw/sensors.vendor.msm8974.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.vendor.msm8974.so \
     vendor/samsung/ks01ltexx/proprietary/vendor/lib/libTsAe.so:$(TARGET_COPY_OUT_VENDOR)/lib/libTsAe.so \
