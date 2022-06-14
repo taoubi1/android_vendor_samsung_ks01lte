@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),ks01ltexx)
+ifeq ($(TARGET_DEVICE),ks01lte)
 
 endif
